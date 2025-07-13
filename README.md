@@ -1,16 +1,53 @@
 ## Hi there 👋
+# 👨‍💻 Agnidhra Banerjee – Network Engineer | Freelancer
 
-<!--
-**Agnidhra11/Agnidhra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a freelance Network Engineer with 9+ years of experience in:
+- Cisco & Juniper networking
+- VPNs, Firewalls, LAN/WAN
+- AWS & Azure networking
+- Network Security & Troubleshooting
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🛠️ Skills
+
+- **Networking:** Cisco, Mikrotik, Juniper, Fortinet, Palo Alto
+- **Security:** Firewall config, IDS/IPS, VPN
+- **Cloud:** AWS VPC, Azure VNets
+- **Tools:** Wireshark, Packet Tracer, Nmap
+
+---
+
+## 💼 Projects
+
+### 🔐 Secure Office VPN Setup
+- Configured OpenVPN for a 20-user team
+- Integrated firewall rules for remote access
+
+### 🌐 Small Business Network Design
+- Created LAN/WAN topology using Cisco routers/switches
+- Implemented VLANs, QoS, DHCP
+
+> 🔗 [Project Diagram](link_to_image_or_repo)
+
+---
+
+## 📜 Certifications
+
+- 🏅 Cisco CCNA
+- 🏅 Juniper JNCIA JNO-252
+- 🛡️ Azure Networking - AZ-700
+- ☁️ AWS Certified Advanced Networking
+
+---
+
+## 📬 Contact
+
+- 📧 Email: banerjeeagnidhra@gmail.com
+- 🌐 LinkedIn: www.linkedin.com/in/agnidhra-banerjee-079ba7136
+- 🌍 Portfolio Website: [yourdomain.com](https://yourdomain.com)
+
+
+
 - ⚡ Fun fact: ...
 -->
