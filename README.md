@@ -19,6 +19,9 @@ Hi! I'm a freelance Network Engineer with 9+ years of experience in:
 ---
 
 ## 💼 Projects
+- Predictive Analysis on Train and Test Data with R Programming - Methods used - Linear Regression, Logistic Regression, Random Forest, Decision Trees and Xgboost
+- SQL project on Data Analysis amd Statistics
+- Data Visualisation with Tableau
 
 ### 🔐 Secure Office VPN Setup
 - Configured OpenVPN for a 20-user team
@@ -36,6 +39,7 @@ Hi! I'm a freelance Network Engineer with 9+ years of experience in:
 
 - 🏅 Cisco CCNA
 - 🏅 Juniper JNCIA JNO-252
+- 🏅 Advanced Certification on Data Analyst from IIT Kanpur
 - 🛡️ Azure Networking - AZ-700
 - ☁️ AWS Certified Advanced Networking
 
