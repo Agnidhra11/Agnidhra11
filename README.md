@@ -1,9 +1,9 @@
 ## Hi there 👋
-# 👨‍💻 Agnidhra Banerjee – Network Engineer | Freelancer
+# 👨‍💻 Agnidhra Banerjee – Network Architect | Data Analyst | Security Analyst
 
-Hi! I'm a freelance Network Engineer with 9+ years of experience in:
-- Cisco & Juniper networking
-- VPNs, Firewalls, LAN/WAN
+Hi! I'm a Network Architect with 9+ years of experience in:
+- Cisco, Juniper, Fortinet and Cloud networking
+- VPNs, Firewalls, LAN/WAN/Wireless
 - AWS & Azure networking
 - Network Security & Troubleshooting
 
@@ -19,6 +19,14 @@ Hi! I'm a freelance Network Engineer with 9+ years of experience in:
 ---
 
 ## 💼 Projects
+### Network Architecture Project
+- Build a Hub and Spoke Architecture in a 1000 site Retail Business
+- Each and Every 1000 Sites are considered as Spoke Network and Azure Vnet has been used as the Hub
+- Technologies and Cloud used - Juniper and Azure
+- Create the entire HLD and LLD of the Project
+- The Architecture includes Traffic steering via local breakout and Overlay Tunnel to HUB. It also includes complex desing for Secured and High Availaibilty connection
+
+### Data Analysis Projects
 - Predictive Analysis on Train and Test Data with R Programming - Methods used - Linear Regression, Logistic Regression, Random Forest, Decision Trees and Xgboost
 - SQL project on Data Analysis amd Statistics
 - Data Visualisation with Tableau
