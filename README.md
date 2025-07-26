@@ -1,17 +1,21 @@
 ## Hi there 👋
 # 👨‍💻 Agnidhra Banerjee – Network Architect | Data Analyst | Security Analyst
 
-Hi! I'm a Network Architect with 9+ years of experience in:
+Hi! I'm a Consultant with 9+ years of experience in:
 - Cisco, Juniper, Fortinet and Cloud networking
 - VPNs, Firewalls, LAN/WAN/Wireless
 - AWS & Azure networking
 - Network Security & Troubleshooting
+- Data Analytics with Python and R
+- Data Cleaning and Statistical improvisation of Data using SQL
+- Data Visualization using Tableau
 
 ---
 
 ## 🛠️ Skills
 
 - **Networking:** Cisco, Mikrotik, Juniper, Fortinet, Palo Alto
+- **Data Analytics:** R, Python, SQL, Tableau
 - **Security:** Firewall config, IDS/IPS, VPN
 - **Cloud:** AWS VPC, Azure VNets
 - **Tools:** Wireshark, Packet Tracer, Nmap
