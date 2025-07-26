@@ -7,6 +7,8 @@ Hi! I'm a Consultant with 9+ years of experience in:
 - AWS & Azure networking
 - Network Security & Troubleshooting
 - Data Analytics with Python and R
+- Linear Modelling, Machine Learning using Xgboost, Random Forest and Decison Trees and Predictive Analysis of Data
+- CLustering and Segmentation of Data
 - Data Cleaning and Statistical improvisation of Data using SQL
 - Data Visualization using Tableau
 
